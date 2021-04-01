@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![flashsherlock](./pic/logo.jpg)
+<!-- ![flashsherlock](./pic/logo.jpg) -->
+![Metrics](https://metrics.lecoq.io/flashsherlock?template=classic&config.timezone=Asia%2FShanghai)
+<img src="./pic/logo.jpg" width = "75%" />
