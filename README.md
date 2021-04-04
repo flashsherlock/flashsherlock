@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 <!-- ![flashsherlock](./pic/logo.jpg) -->
 ![Metrics](https://metrics.lecoq.io/flashsherlock?template=classic&config.timezone=Asia%2FShanghai)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flashsherlock&layout=compact&hide=html,tex,javascript)](https://github.com/anuraghazra/github-readme-stats)
 <img src="./pic/logo.jpg" width = "75%" />
+<!-- [![Fei's GitHub stats](https://github-readme-stats.vercel.app/api?username=flashsherlock&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats) -->
