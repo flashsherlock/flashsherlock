@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- visit count -->
+<!-- <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=flashsherlock" /> </div> -->
+<!-- ![Visitor Count](https://profile-counter.glitch.me/flashsherlock/count.svg) -->
+![Visitor Count](https://komarev.com/ghpvc/?username=flashsherlock)
+
 <!-- ![flashsherlock](./pic/logo.jpg) -->
 <img src="./pic/logo.jpg" width = "60%" />
 
