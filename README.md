@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 <!-- ![flashsherlock](./pic/logo.jpg) -->
 <img src="./pic/logo.jpg" width = "60%" />
 
-![Metrics](https://metrics.lecoq.io/flashsherlock?template=classic&base.metadata=0&languages=1&isocalendar=1&isocalendar.duration=half-year&languages.ignored=html%2Cjavascript%2Ccss%2Ctex%2CM&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FShanghai)
+<!-- ![Metrics](https://metrics.lecoq.io/flashsherlock?template=classic&base.metadata=0&languages=1&isocalendar=1&isocalendar.duration=half-year&languages.ignored=html%2Cjavascript%2Ccss%2Ctex%2CM&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FShanghai) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flashsherlock&layout=compact&hide=html,tex,javascript)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Fei's GitHub stats](https://github-readme-stats.vercel.app/api?username=flashsherlock&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats) -->
