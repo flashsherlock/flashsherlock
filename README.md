@@ -21,14 +21,14 @@ Here are some ideas to get you started:
 
 <div style="display: flex; align-items: flex-start;">
 
-  <div style="margin-right: 5px;">
+  <div style="margin-right: 5px; width: 50%">
     <img style="margin-left: 8px;" src="https://komarev.com/ghpvc/?username=flashsherlock" width="60px" />
     <br>
     <img src="./metrics.classic.svg" alt="Metrics" width="100%">
   </div>
 
-  <div>
-    <img src="./pic/logo.jpg" width="500px" />
+  <div style="margin-right: 1px; width: 40%">
+    <img src="./pic/logo.jpg" width="100%" />
   </div>
 
 </div>
