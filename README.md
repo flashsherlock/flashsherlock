@@ -18,10 +18,20 @@ Here are some ideas to get you started:
 <!-- visit count -->
 <!-- <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=flashsherlock" /> </div> -->
 <!-- ![Visitor Count](https://profile-counter.glitch.me/flashsherlock/count.svg) -->
-![Visitor Count](https://komarev.com/ghpvc/?username=flashsherlock)
 
-<!-- ![flashsherlock](./pic/logo.jpg) -->
-<img src="./pic/logo.jpg" width = "60%" />
+<div style="display: flex; align-items: flex-start;">
+
+  <div style="margin-right: 5px;">
+    <img style="margin-left: 8px;" src="https://komarev.com/ghpvc/?username=flashsherlock" width="60px" />
+    <br>
+    <img src="./metrics.classic.svg" alt="Metrics" width="100%">
+  </div>
+
+  <div>
+    <img src="./pic/logo.jpg" width="500px" />
+  </div>
+
+</div>
 
 <!-- ![Metrics](https://metrics.lecoq.io/flashsherlock?template=classic&base.metadata=0&languages=1&isocalendar=1&isocalendar.duration=half-year&languages.ignored=html%2Cjavascript%2Ccss%2Ctex%2CM&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FShanghai) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flashsherlock&layout=compact&hide=html,tex,javascript)](https://github.com/anuraghazra/github-readme-stats) -->
