@@ -21,5 +21,4 @@ jobs:
             base: header, repositories
             plugin_lines: yes
             plugin_languages: yes
-            plugin_languages_ignored: html, javascript, css, SCSS, tex, Ruby
-            plugin_languages_threshold: 2%
+            plugin_languages_ignored: html, javascript, css, SCSS, tex, M, Ruby

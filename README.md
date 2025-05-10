@@ -18,14 +18,18 @@ Here are some ideas to get you started:
 <!-- visit count -->
 <!-- <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=flashsherlock" /> </div> -->
 <!-- ![Visitor Count](https://profile-counter.glitch.me/flashsherlock/count.svg) -->
+![Visitor Count](https://komarev.com/ghpvc/?username=flashsherlock)
 
 <table>
   <tr>
     <td>
-    <img style="margin-left: 8px;" src="https://komarev.com/ghpvc/?username=flashsherlock" width="60px" />
-    <img src="./metrics.classic.svg" alt="Metrics" width="300px">
+    <a href="https://flashsherlock.github.io/">
+    <img style="margin-left: 8px;" src="https://api.netlify.com/api/v1/badges/96a6c4a9-f8c2-4476-a512-441dc45001a1/deploy-status" width="100px" />
+    </a>
+    <br>
+    <img src="./metrics.classic.svg" alt="Metrics" width="400px">
     </td>
-    <td><img src="./pic/logo.jpg" width="300px" /></td>
+    <td><img src="./pic/logo.jpg" width="400px" /></td>
   </tr>
  </table>
 
