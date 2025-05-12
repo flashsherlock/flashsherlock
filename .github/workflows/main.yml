@@ -17,7 +17,7 @@ jobs:
       # - uses: lowlighter/metrics@latest
       - uses: flashsherlock/metrics@master
         with:
-            config_padding: 0, 10
+            config_padding: 1, 3%
             config_timezone: Asia/Shanghai
             filename: metrics.classic.svg
             token: ${{ secrets.METRICS_TOKEN }}
