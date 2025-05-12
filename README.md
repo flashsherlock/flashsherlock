@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <!-- ![Visitor Count](https://profile-counter.glitch.me/flashsherlock/count.svg) -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=flashsherlock)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/96a6c4a9-f8c2-4476-a512-441dc45001a1/deploy-status)](https://flashsherlock.github.io/)
+<!-- this part on git hub is 1012px max-width -->
 <table>
   <tr>
     <td>
@@ -29,7 +30,7 @@ Here are some ideas to get you started:
     <br> -->
     <img src="./metrics.classic.svg" alt="Metrics" width="400px">
     </td>
-    <td><img src="./pic/logo.jpg" width="400px" /></td>
+    <td><img src="./pic/logo.jpg" width="420px" /></td>
   </tr>
  </table>
 
