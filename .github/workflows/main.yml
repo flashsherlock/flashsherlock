@@ -34,12 +34,12 @@ jobs:
               -flashsherlock/WebBasedPsychologyProgram
             plugin_lines: yes
             plugin_languages: yes
-            plugin_languages_sections: most-used, recently-used
+            plugin_languages_sections: most-used #, recently-used
             plugin_languages_indepth: yes
             plugin_languages_details: lines, bytes-size
             plugin_languages_limit: 4
             plugin_languages_ignored: html, javascript, css, SCSS, M, Ruby
-            plugin_languages_analysis_timeout: 35
-            plugin_languages_analysis_timeout_repositories: 15
-            plugin_languages_recent_load: 400
-            plugin_languages_recent_days: 31
+            plugin_languages_analysis_timeout: 60
+            plugin_languages_analysis_timeout_repositories: 0
+            plugin_languages_recent_load: 200
+            plugin_languages_recent_days: 14
